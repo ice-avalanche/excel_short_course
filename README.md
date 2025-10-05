@@ -6,7 +6,7 @@
 |---|-------|------|
 | 1 | Formulas and Functions. References and Arrays | [Lesson 1](lessons/lesson1.md) |
 | 2 | Data Processing and Analysis | [Lesson 2](lessons/lesson2.md) |
-| 3 | Conditional Formatting, Filters, and Sorting | [Lesson 3](lessons/lesson3.md) |
+| 3 | Excel Tables, Conditional Formatting, Filters & Sorting | [Lesson 3](lessons/lesson3.md) |
 | 4 | Graphics in MS Excel | [Lesson 4](lessons/lesson4.md) |
 | 5 | Pivot Tables and Charts | [Lesson 5](lessons/lesson5.md) |
 | 6 | Power Query. Import and Data Preparation | [Lesson 6](lessons/lesson6.md) |
